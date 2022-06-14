@@ -128,7 +128,7 @@ header {
     color: #000000;
 }
 .product .list-product .product-item button{
-    max-width: 125px;
+    width: 125px;
     height: 35px;
     background: #00FFFF;
     border-radius: 10px;
